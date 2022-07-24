@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pentagon", "Pentagon\Pentagon.vcxproj", "{FE9F9A3B-678E-4651-9168-2402B200BA21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Printer", "Printer\Printer.csproj", "{C683A688-1CA0-4619-8ECF-0746F5D8BDDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rate", "Rate\Rate.csproj", "{3CB88F71-F012-479F-BBCD-07085EA3CA82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE9F9A3B-678E-4651-9168-2402B200BA21}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{FE9F9A3B-678E-4651-9168-2402B200BA21}.Debug|x64.ActiveCfg = Debug|x64
+		{FE9F9A3B-678E-4651-9168-2402B200BA21}.Debug|x64.Build.0 = Debug|x64
+		{FE9F9A3B-678E-4651-9168-2402B200BA21}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE9F9A3B-678E-4651-9168-2402B200BA21}.Debug|x86.Build.0 = Debug|Win32
+		{FE9F9A3B-678E-4651-9168-2402B200BA21}.Release|Any CPU.ActiveCfg = Release|Win32
+		{FE9F9A3B-678E-4651-9168-2402B200BA21}.Release|x64.ActiveCfg = Release|x64
+		{FE9F9A3B-678E-4651-9168-2402B200BA21}.Release|x64.Build.0 = Release|x64
+		{FE9F9A3B-678E-4651-9168-2402B200BA21}.Release|x86.ActiveCfg = Release|Win32
+		{FE9F9A3B-678E-4651-9168-2402B200BA21}.Release|x86.Build.0 = Release|Win32
+		{C683A688-1CA0-4619-8ECF-0746F5D8BDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C683A688-1CA0-4619-8ECF-0746F5D8BDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C683A688-1CA0-4619-8ECF-0746F5D8BDDA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C683A688-1CA0-4619-8ECF-0746F5D8BDDA}.Debug|x64.Build.0 = Debug|Any CPU
+		{C683A688-1CA0-4619-8ECF-0746F5D8BDDA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C683A688-1CA0-4619-8ECF-0746F5D8BDDA}.Debug|x86.Build.0 = Debug|Any CPU
+		{C683A688-1CA0-4619-8ECF-0746F5D8BDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C683A688-1CA0-4619-8ECF-0746F5D8BDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C683A688-1CA0-4619-8ECF-0746F5D8BDDA}.Release|x64.ActiveCfg = Release|Any CPU
+		{C683A688-1CA0-4619-8ECF-0746F5D8BDDA}.Release|x64.Build.0 = Release|Any CPU
+		{C683A688-1CA0-4619-8ECF-0746F5D8BDDA}.Release|x86.ActiveCfg = Release|Any CPU
+		{C683A688-1CA0-4619-8ECF-0746F5D8BDDA}.Release|x86.Build.0 = Release|Any CPU
+		{3CB88F71-F012-479F-BBCD-07085EA3CA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB88F71-F012-479F-BBCD-07085EA3CA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB88F71-F012-479F-BBCD-07085EA3CA82}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3CB88F71-F012-479F-BBCD-07085EA3CA82}.Debug|x64.Build.0 = Debug|Any CPU
+		{3CB88F71-F012-479F-BBCD-07085EA3CA82}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3CB88F71-F012-479F-BBCD-07085EA3CA82}.Debug|x86.Build.0 = Debug|Any CPU
+		{3CB88F71-F012-479F-BBCD-07085EA3CA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB88F71-F012-479F-BBCD-07085EA3CA82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB88F71-F012-479F-BBCD-07085EA3CA82}.Release|x64.ActiveCfg = Release|Any CPU
+		{3CB88F71-F012-479F-BBCD-07085EA3CA82}.Release|x64.Build.0 = Release|Any CPU
+		{3CB88F71-F012-479F-BBCD-07085EA3CA82}.Release|x86.ActiveCfg = Release|Any CPU
+		{3CB88F71-F012-479F-BBCD-07085EA3CA82}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7965E44-78B4-40B5-A0FF-7137919E66D8}
+	EndGlobalSection
+EndGlobal
